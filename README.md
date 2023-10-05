@@ -1,2 +1,2 @@
-# tech_ifood_bootcamp_desenvolvimento_de_jogos_dio
-Esse repositório foi criado com o objetivo de adicionar projetos práticas do bootcamp.
+# Tech IFood Desenvolvimento de Jogos
+Esse repositório foi criado com o objetivo de adicionar projetos, conteúdos e práticas do bootcamp.
